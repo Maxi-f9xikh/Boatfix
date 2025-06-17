@@ -7,7 +7,7 @@
 - Keeps movement smooth without interruption
 
 ## 🛠 Installation
-- Requires [Minecraft Forge 1.20.1](https://files.minecraftforge.net/)
+- Requires [Minecraft Forge 1.19.2]
 - Drop the `.jar` into your `mods` folder
 
 ## 📦 Modpacks & Permissions
