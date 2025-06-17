@@ -7,7 +7,7 @@
 - Keeps movement smooth without interruption
 
 ## 🛠 Installation
-- Requires [Minecraft Forge 1.19.2]
+- Requires Minecraft Forge 1.19.2, 1.19.4, 1.20.1, 1.20.2 or 1.20.4 or Fabric 1.20.1
 - Drop the `.jar` into your `mods` folder
 
 ## 📦 Modpacks & Permissions
